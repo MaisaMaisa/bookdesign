@@ -1,0 +1,144 @@
+/* body{
+    display: inline-flex;
+    justify-content: center;
+} */
+
+*{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.my-comment{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+.cover-wrapper{
+    /* height: 20%; */
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+
+    margin: 5% 0 2% 0;
+}
+
+.cover{
+    width: 416px;
+    /* height: 920px; */
+    border: solid;
+
+    /* position: relative; */
+}
+
+.title-top{
+    /* background-color: red; */
+    text-align: center;
+
+    padding-top: 2%;
+}
+
+.image-wrapper{
+    position: relative;
+    height: 500px;
+    padding: 3%;
+}
+
+.image{
+    position: relative;
+
+    width: 100%;
+    height: 100%;
+
+    -webkit-box-shadow: inset 0px 0px 21px 20px #FFFFFF; 
+    box-shadow: inset 0px 0px 21px 20px #FFFFFF;
+}
+
+.title-btm{
+    /* background-color: red; */
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.main-title{
+    font-size: 28px;
+    padding-top: 10px;
+}
+
+.sub-title{
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.author-name{
+    font-size: 28px;
+}
+
+.series{
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+/* options */
+.image-one{
+    background: url(/selfies/01.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-two{
+    background: url(/selfies/02.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-three{
+    background: url(/selfies/03.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-four{
+    background: url(/selfies/04.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-five{
+    background: url(/selfies/05.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-six{
+    background: url(/selfies/06.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-seven{
+    background: url(/selfies/07.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-eight{
+    background: url(/selfies/08.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-nine{
+    background: url(/selfies/09.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-ten{
+    background: url(/selfies/10.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-eleven{
+    background: url(/selfies/11.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-twelve{
+    background: url(/selfies/12.jpg) no-repeat;
+    background-size: 100% 100%;
+}
