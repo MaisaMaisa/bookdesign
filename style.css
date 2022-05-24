@@ -96,6 +96,8 @@
 .image-three{
     background: url(/selfies/03.jpg) no-repeat;
     background-size: 100% 100%;
+
+    filter: grayscale();
 }
 
 .image-four{
