@@ -175,6 +175,26 @@
     background-size: 100% 100%;
 }
 
+.image-seventeen{
+    background: url(/selfies/17.JPG) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-eighteen{
+    background: url(/selfies/18.JPG) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-nineteen{
+    background: url(/selfies/19.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-twenty{
+    background: url(/selfies/20.png) no-repeat;
+    background-size: 100% 100%;
+}
+
 .end{
     width: 100%;
     margin-top: 10%;
