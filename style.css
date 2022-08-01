@@ -190,8 +190,33 @@
     background-size: 100% 100%;
 }
 
-.image-twenty{
-    background: url(/selfies/20.png) no-repeat;
+.image-twentyone{
+    background: url(/selfies/21.JPG) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-twentytwo{
+    background: url(/selfies/22.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-twentythree{
+    background: url(/selfies/23.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-twentyfour{
+    background: url(/selfies/24.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-twentyfive{
+    background: url(/selfies/26.JPG) no-repeat;
+    background-size: 100% 100%;
+}
+
+.image-twentysix{
+    background: url(/selfies/25.JPG) no-repeat;
     background-size: 100% 100%;
 }
 
